@@ -29,5 +29,5 @@ I saw it fit to simply use HTML and CSS just to get a better undertsnading of ho
 -CSS custom properties
 
 ## Author
--Github - [Jaysonalfie](https://github.com/jaysonalfie)
+- Github - [Jaysonalfie](https://github.com/jaysonalfie)
 - Frontend mentor - [Jaysonalfie](https://www.frontendmentor.io/profile/jaysonalfie)
