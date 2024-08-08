@@ -64,3 +64,13 @@ img{
     color: hsl(228,45%,44%);
     text-decoration: none;
 }
+
+/* mobile responsiveness */
+/*Color will change if the viewport is 480px wide or wider
+I if less the color will be the one in the body for the desktop(min-width)
+For (max-width)...it is the opposite*/
+@media screen and (max-width:375px) {
+    body{
+        background: hsl(212, 45%, 89%);
+    }
+}
