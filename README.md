@@ -17,8 +17,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./qr%20code.PNG)
 
 ### Links
--Solution Url: [https://github.com/jaysonalfie/QR-code-component-Frontend-mentor.git]
--Live Site URL: [https://qr-code-component-frontend-mentor-amber.vercel.app/]
+- Solution Url: [https://github.com/jaysonalfie/QR-code-component-Frontend-mentor.git]
+
+- Live Site URL: [https://qr-code-component-frontend-mentor-amber.vercel.app/]
 
 ## My process
 I saw it fit to simply use HTML and CSS just to get a better undertsnading of how they work and perhaps may do it again with a framework
