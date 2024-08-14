@@ -1,6 +1,13 @@
 /* style.css */
+/*
+REMARKS
+-Wrapping contents within landmarks eg main and footer tags
+-Linking google Fonts in the HTML head
+-Using rem instead of px for font sizes
+-Modern CSS reset*/
 /*hsl- hue(angle) sturation and lightness */
 @import url(https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap);
+/* universal selector */
 *{
     margin: 0;
     padding: 0;
@@ -46,7 +53,7 @@ h1{
 }
 p{
     color: hsl(216,15%,48%);
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-weight: 400;
     padding: 15px;
 }
@@ -57,7 +64,7 @@ img{
 }
 
 .attribution{
-    font-size: 11px;
+    font-size:0.6875rem ;
     text-align: center;
 }
 
